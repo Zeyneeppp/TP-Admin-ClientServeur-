@@ -90,4 +90,4 @@ permet dexploiter et de faciliter le deploiment
 * Exposition des port : ( reseau)
     Les microservices s'exécutent généralement à l'intérieur de conteneurs Docker, qui sont des instances isolées et légères d'applications. Chaque conteneur peut exposer un ou plusieurs ports pour permettre aux autres services ou utilisateurs d'accéder aux fonctionnalités fournies par ce microservice spécifique.
 
-Pour exposer un port d'un conteneur Docker, vous devez spécifier la configuration appropriée lors du démarrage du conteneur. Lorsque vous exécutez la commande docker run, vous pouvez utiliser l'option -p (ou --publish) pour lier un port du conteneur à un port de l'hôte (le système sur lequel Docker s'exécute).
+//Pour exposer un port d'un conteneur Docker, vous devez spécifier la configuration appropriée lors du démarrage du conteneur. Lorsque vous exécutez la commande docker run, vous pouvez utiliser l'option -p (ou --publish) pour lier un port du conteneur à un port de l'hôte (le système sur lequel Docker s'exécute).
